@@ -1,0 +1,16 @@
+{
+    "name": "dz-14",
+    "version": "1.0.0",
+    "description": "",
+    "main": "api.test.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.7.9",
+        "jest": "^29.7.0"
+    }
+}
